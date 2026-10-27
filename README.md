@@ -4,6 +4,9 @@ A JavaFX application that simulates humidity control using Mamdani fuzzy inferen
 
 The simulation is intended for experimenting with fuzzy rules and membership functions. It is not a model of a real HVAC system.
 
+<img width="1225" height="919" alt="dashboard" src="https://github.com/user-attachments/assets/510a9393-1d0d-4406-8422-52156e53e94b" />
+
+
 ## Requirements
 
 - JDK 21 or newer
